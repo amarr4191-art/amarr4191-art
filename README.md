@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amarjeet Kumar
+# 👋 Hi, I'm Kali_Amar
 
 ### 💻 Diploma CSE Student | Python Developer 🐍
 
