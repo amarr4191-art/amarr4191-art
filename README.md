@@ -60,14 +60,6 @@ Python project for managing student information using files and JSON.
 
 
 
-## 📊 GitHub Stats
-
-![Amarjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarr4191-art&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amarr4191-art&layout=compact&theme=tokyonight&hide_border=true)
-
-
-
 ## 🎯 My Goal
 
 > To become a skilled Python Developer and build useful,
